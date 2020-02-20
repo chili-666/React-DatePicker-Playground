@@ -1,6 +1,6 @@
 # React-DatePicker-Playground
 
-Nothing much - just playing around with a date-picker and react...
+Hier gibt es nicht wirklich was zu sehen. Nur zum spielen mit React und Date-Picker gedacht...
 
 Created with CodeSandbox
 
